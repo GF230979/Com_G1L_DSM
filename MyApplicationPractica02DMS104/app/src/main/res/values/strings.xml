@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application Practica 02 DSM 104</string>
+    <string name="Tema">Operacion suma</string>
+    <string name="Operador1">Operador1: </string>
+    <string name="Operador2">Operador2: </string>
+    <string name="resultado">Resultado: </string>
+    <string name="enviar">Enviar</string>
+</resources>
